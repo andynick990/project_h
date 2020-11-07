@@ -1,0 +1,8 @@
+name: project_h
+dependencies:
+    -flask
+    -spacy
+    -scikit-learn
+    -beautifulsoup4
+    -en_core_web_sm
+    
